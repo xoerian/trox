@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    cursor: url("cursor.png"), url("cursor.png"), default;
+
+}
+
+#img{
+   display: flex;
+   justify-content: center;
+   padding-top: 25rem;
+}
+#skull{
+
+}
+
